@@ -16,6 +16,12 @@
      limitations under the License.
 -->
 <resources>
+
+    <!-- Categories -->
+    <string name="general_category_title">通用</string>
+    <string name="recents_category_title">最近任务</string>
+
     <!-- Memory info -->
     <string name="meminfo_text">%1$s 可用 | 总内存 %2$s </string>
+    <string name="recents_meminfo_title">显示内存信息</string>
 </resources>
